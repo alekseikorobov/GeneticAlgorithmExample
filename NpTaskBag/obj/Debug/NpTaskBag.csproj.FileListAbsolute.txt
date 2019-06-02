@@ -1,0 +1,8 @@
+c:\users\akorobov\source\repos\NpTaskBag\NpTaskBag\bin\Debug\NpTaskBag.exe.config
+c:\users\akorobov\source\repos\NpTaskBag\NpTaskBag\bin\Debug\NpTaskBag.exe
+c:\users\akorobov\source\repos\NpTaskBag\NpTaskBag\bin\Debug\NpTaskBag.pdb
+c:\users\akorobov\source\repos\NpTaskBag\NpTaskBag\obj\Debug\NpTaskBag.csprojResolveAssemblyReference.cache
+c:\users\akorobov\source\repos\NpTaskBag\NpTaskBag\obj\Debug\NpTaskBag.csproj.CoreCompileInputs.cache
+c:\users\akorobov\source\repos\NpTaskBag\NpTaskBag\obj\Debug\NpTaskBag.exe
+c:\users\akorobov\source\repos\NpTaskBag\NpTaskBag\obj\Debug\NpTaskBag.pdb
+c:\users\akorobov\source\repos\NpTaskBag\NpTaskBag\bin\Debug\Array.txt
